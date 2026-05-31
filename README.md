@@ -26,4 +26,4 @@ Saat ini saya sedang membangun portofolio proyek untuk mengembangkan keterampila
 ## Contact
 
 - LinkedIn: (isi nanti)
-- GitHub: 
+- GitHub: https://github.com/Itsmeyaff
