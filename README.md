@@ -7,8 +7,19 @@ Saya adalah siswa SMK jurusan Teknik Komputer dan Jaringan (TKJ) yang memiliki m
 - Database
 - Cloud Computing (AWS)
 
-Saat ini saya sedang membangun portofolio proyek untuk mengembangkan keterampilan di bidang IT Infrastructure dan System Administration.<br><br>Skills<br>Linux<br>Networking<br>MySQL<br>AWS<br>Git & GitHub
+Saat ini saya sedang membangun portofolio proyek untuk mengembangkan keterampilan di bidang IT Infrastructure dan System Administration.
 
+
+## Skills
+- Linux
+- Networking
+- MySQL
+- AWS
+- Git & GitHub
+
+## Projects
+
+🚧 Portfolio masih dalam proses pengembangan.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Itsmeyaff_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yafi-bahtiar-150697388) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yafibahtiar26@gmail.com) 
