@@ -1,7 +1,13 @@
 # Hi, I'm [Yafi Bahtiar] 👋
 
 # 💫 About Me:
-Saya adalah siswa SMK jurusan Teknik Komputer dan Jaringan (TKJ) yang memiliki minat pada:<br><br>Linux Administration<br>Networking<br>Database<br>Cloud Computing (AWS)<br>Saat ini saya sedang membangun portofolio proyek untuk mengembangkan keterampilan di bidang IT Infrastructure dan System Administration.<br><br>Skills<br>Linux<br>Networking<br>MySQL<br>AWS<br>Git & GitHub
+Saya adalah siswa SMK jurusan Teknik Komputer dan Jaringan (TKJ) yang memiliki minat pada:
+- Linux Administration
+- Networking
+- Database
+- Cloud Computing (AWS)
+
+Saat ini saya sedang membangun portofolio proyek untuk mengembangkan keterampilan di bidang IT Infrastructure dan System Administration.<br><br>Skills<br>Linux<br>Networking<br>MySQL<br>AWS<br>Git & GitHub
 
 
 ## 🌐 Socials:
