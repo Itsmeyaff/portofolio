@@ -1,4 +1,4 @@
-# Hi, I'm [Yafi Bahtiar] 👋
+# Hi, I'm Yafi Bahtiar 👋
 
 # 💫 About Me:
 Saya adalah siswa SMK jurusan Teknik Komputer dan Jaringan (TKJ) yang memiliki minat pada:
