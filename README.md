@@ -21,6 +21,7 @@ Saat ini saya sedang membangun portofolio proyek untuk mengembangkan keterampila
 
 - database-penjualan SQLite3
 - simple-network-design-school
+- aws-cloud-lab (cooming soon)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Itsmeyaff_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yafi-bahtiar-150697388) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yafibahtiar26@gmail.com) 
